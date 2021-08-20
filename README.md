@@ -1,2 +1,4 @@
 # hello-world
-Repositório referente à primeira atividade de Engenharia de Software 2.
+Olá professor Fabiano !
+
+Aqui estou realizando uma mudança no arquivo "README.md" para demonstrar o Commit 
